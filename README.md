@@ -1,10 +1,10 @@
-# Resource actino for Entra ID role permissions
+# Resource actions for Entra ID role permissions
 
 The repository contains the list of all resource actions for Entra ID role permissions.
 
 ## Content
 
-Some resource namespaces may not contain any resource actions.
+> Some resource namespaces may not contain any resource actions.
 
 - [all](allResourceActions.md) - List of all resource actions
 - [microsoft.aad.b2c](microsoft.aad/microsoft.aad.b2c.md) - List of resource actions from the `microsoft.aad.b2c` namespace
