@@ -1,5 +1,5 @@
-# Namespace `microsoft.office365.organizationalMessages`
-## Role permissions
+# Resource namespace `microsoft.office365.organizationalMessages`
+## Resource actions
 |Name|Description|Privileged|
 |-|-|-|
 |`microsoft.office365.organizationalMessages/allEntities/allProperties/allTasks`|Manage all authoring aspects of Microsoft 365 Organizational Messages|False|

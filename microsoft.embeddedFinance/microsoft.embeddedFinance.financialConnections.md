@@ -1,4 +1,4 @@
-# Namespace `microsoft.embeddedFinance.financialConnections`
-## Role permissions
+# Resource namespace `microsoft.embeddedFinance.financialConnections`
+## Resource actions
 |Name|Description|Privileged|
 |-|-|-|

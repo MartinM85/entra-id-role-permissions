@@ -1,5 +1,5 @@
-# Namespace `microsoft.azure.print`
-## Role permissions
+# Resource namespace `microsoft.azure.print`
+## Resource actions
 |Name|Description|Privileged|
 |-|-|-|
 |`microsoft.azure.print/allEntities/allProperties/allTasks`|Create and delete printers and connectors, and read and update all properties in Microsoft Print|False|

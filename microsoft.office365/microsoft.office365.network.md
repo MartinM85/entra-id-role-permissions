@@ -1,5 +1,5 @@
-# Namespace `microsoft.office365.network`
-## Role permissions
+# Resource namespace `microsoft.office365.network`
+## Resource actions
 |Name|Description|Privileged|
 |-|-|-|
 |`microsoft.office365.network/locations/allProperties/allTasks`|Manage all aspects of network locations|False|

@@ -1,4 +1,4 @@
-# Namespace `microsoft.aad.cloudAppSecurity`
-## Role permissions
+# Resource namespace `microsoft.aad.cloudAppSecurity`
+## Resource actions
 |Name|Description|Privileged|
 |-|-|-|

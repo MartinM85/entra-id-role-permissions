@@ -1,5 +1,5 @@
-# Namespace `microsoft.office365.search`
-## Role permissions
+# Resource namespace `microsoft.office365.search`
+## Resource actions
 |Name|Description|Privileged|
 |-|-|-|
 |`microsoft.office365.search/allEntities/allTasks`|Create and delete all resources, and read and update all properties in Microsoft Search|False|

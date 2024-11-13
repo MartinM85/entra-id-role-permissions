@@ -1,4 +1,4 @@
-# Namespace `microsoft.securityCopilot`
-## Role permissions
+# Resource namespace `microsoft.securityCopilot`
+## Resource actions
 |Name|Description|Privileged|
 |-|-|-|

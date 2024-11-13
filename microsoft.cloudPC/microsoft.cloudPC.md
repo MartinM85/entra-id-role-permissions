@@ -1,5 +1,5 @@
-# Namespace `microsoft.cloudPC`
-## Role permissions
+# Resource namespace `microsoft.cloudPC`
+## Resource actions
 |Name|Description|Privileged|
 |-|-|-|
 |`microsoft.cloudPC/allEntities/allProperties/allTasks`|Manage all aspects of Windows 365|False|

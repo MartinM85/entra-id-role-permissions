@@ -1,5 +1,5 @@
-# Namespace `microsoft.commerce.billing`
-## Role permissions
+# Resource namespace `microsoft.commerce.billing`
+## Resource actions
 |Name|Description|Privileged|
 |-|-|-|
 |`microsoft.commerce.billing/allEntities/allProperties/allTasks`|Manage all aspects of Office 365 billing|False|

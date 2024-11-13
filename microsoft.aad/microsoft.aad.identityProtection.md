@@ -1,4 +1,4 @@
-# Namespace `microsoft.aad.identityProtection`
-## Role permissions
+# Resource namespace `microsoft.aad.identityProtection`
+## Resource actions
 |Name|Description|Privileged|
 |-|-|-|

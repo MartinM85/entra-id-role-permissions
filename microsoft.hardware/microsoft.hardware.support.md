@@ -1,5 +1,5 @@
-# Namespace `microsoft.hardware.support`
-## Role permissions
+# Resource namespace `microsoft.hardware.support`
+## Resource actions
 |Name|Description|Privileged|
 |-|-|-|
 |`microsoft.hardware.support/shippingAddress/allProperties/allTasks`|Create, read, update, and delete shipping addresses for Microsoft hardware warranty claims, including shipping addresses created by others|False|

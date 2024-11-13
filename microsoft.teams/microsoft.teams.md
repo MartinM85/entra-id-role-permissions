@@ -1,5 +1,5 @@
-# Namespace `microsoft.teams`
-## Role permissions
+# Resource namespace `microsoft.teams`
+## Resource actions
 |Name|Description|Privileged|
 |-|-|-|
 |`microsoft.teams/allEntities/allProperties/allTasks`|Manage all resources in Teams|False|

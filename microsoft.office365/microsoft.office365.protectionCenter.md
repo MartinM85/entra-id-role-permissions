@@ -1,5 +1,5 @@
-# Namespace `microsoft.office365.protectionCenter`
-## Role permissions
+# Resource namespace `microsoft.office365.protectionCenter`
+## Resource actions
 |Name|Description|Privileged|
 |-|-|-|
 |`microsoft.office365.protectionCenter/allEntities/allProperties/allTasks`|Manage all aspects of the Security and Compliance centers|False|

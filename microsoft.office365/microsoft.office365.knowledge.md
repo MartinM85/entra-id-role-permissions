@@ -1,5 +1,5 @@
-# Namespace `microsoft.office365.knowledge`
-## Role permissions
+# Resource namespace `microsoft.office365.knowledge`
+## Resource actions
 |Name|Description|Privileged|
 |-|-|-|
 |`microsoft.office365.knowledge/contentUnderstanding/allProperties/allTasks`|Read and update all properties of content understanding in Microsoft 365 admin center|False|

@@ -1,5 +1,5 @@
-# Namespace `microsoft.networkAccess`
-## Role permissions
+# Resource namespace `microsoft.networkAccess`
+## Resource actions
 |Name|Description|Privileged|
 |-|-|-|
 |`microsoft.networkAccess/allEntities/allProperties/allTasks`|Manage all aspects of Entra Network Access|False|

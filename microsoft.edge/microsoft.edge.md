@@ -1,5 +1,5 @@
-# Namespace `microsoft.edge`
-## Role permissions
+# Resource namespace `microsoft.edge`
+## Resource actions
 |Name|Description|Privileged|
 |-|-|-|
 |`microsoft.edge/allEntities/allProperties/allTasks`|Manage all aspects of Microsoft Edge|False|

@@ -1,4 +1,4 @@
-# Namespace `microsoft.aad.directorySync`
-## Role permissions
+# Resource namespace `microsoft.aad.directorySync`
+## Resource actions
 |Name|Description|Privileged|
 |-|-|-|

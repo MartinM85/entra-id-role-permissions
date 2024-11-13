@@ -1,5 +1,5 @@
-# Namespace `microsoft.insights`
-## Role permissions
+# Resource namespace `microsoft.insights`
+## Resource actions
 |Name|Description|Privileged|
 |-|-|-|
 |`microsoft.insights/allEntities/allProperties/allTasks`|Manage all aspects of Insights app|False|

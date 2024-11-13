@@ -1,4 +1,4 @@
-# Namespace `microsoft.aad.reports`
-## Role permissions
+# Resource namespace `microsoft.aad.reports`
+## Resource actions
 |Name|Description|Privileged|
 |-|-|-|

@@ -1,5 +1,5 @@
-# Namespace `microsoft.graph.dataConnect`
-## Role permissions
+# Resource namespace `microsoft.graph.dataConnect`
+## Resource actions
 |Name|Description|Privileged|
 |-|-|-|
 |`microsoft.graph.dataConnect/allEntities/allProperties/allTasks`|Manage aspects of Microsoft Graph Data Connect|False|

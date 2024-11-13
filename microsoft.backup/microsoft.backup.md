@@ -1,5 +1,5 @@
-# Namespace `microsoft.backup`
-## Role permissions
+# Resource namespace `microsoft.backup`
+## Resource actions
 |Name|Description|Privileged|
 |-|-|-|
 |`microsoft.backup/allEntities/allProperties/allTasks`|Manage all aspects of Microsoft 365 Backup|False|

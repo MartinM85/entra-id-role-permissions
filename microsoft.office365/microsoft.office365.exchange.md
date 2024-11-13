@@ -1,5 +1,5 @@
-# Namespace `microsoft.office365.exchange`
-## Role permissions
+# Resource namespace `microsoft.office365.exchange`
+## Resource actions
 |Name|Description|Privileged|
 |-|-|-|
 |`microsoft.office365.exchange/allEntities/basic/allTasks`|Manage all aspects of Exchange Online|False|

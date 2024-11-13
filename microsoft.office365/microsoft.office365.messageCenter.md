@@ -1,5 +1,5 @@
-# Namespace `microsoft.office365.messageCenter`
-## Role permissions
+# Resource namespace `microsoft.office365.messageCenter`
+## Resource actions
 |Name|Description|Privileged|
 |-|-|-|
 |`microsoft.office365.messageCenter/messages/read`|Read messages in Message Center in the Microsoft 365 admin center, excluding security messages|False|

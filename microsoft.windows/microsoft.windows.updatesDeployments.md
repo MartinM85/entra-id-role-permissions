@@ -1,5 +1,5 @@
-# Namespace `microsoft.windows.updatesDeployments`
-## Role permissions
+# Resource namespace `microsoft.windows.updatesDeployments`
+## Resource actions
 |Name|Description|Privileged|
 |-|-|-|
 |`microsoft.windows.updatesDeployments/allEntities/allProperties/allTasks`|Read and configure all aspects of Windows Update Service|False|

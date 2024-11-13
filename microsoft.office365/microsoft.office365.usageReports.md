@@ -1,5 +1,5 @@
-# Namespace `microsoft.office365.usageReports`
-## Role permissions
+# Resource namespace `microsoft.office365.usageReports`
+## Resource actions
 |Name|Description|Privileged|
 |-|-|-|
 |`microsoft.office365.usageReports/allEntities/allProperties/read`|Read Office 365 usage reports|False|

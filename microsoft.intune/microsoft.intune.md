@@ -1,5 +1,5 @@
-# Namespace `microsoft.intune`
-## Role permissions
+# Resource namespace `microsoft.intune`
+## Resource actions
 |Name|Description|Privileged|
 |-|-|-|
 |`microsoft.intune/allEntities/allTasks`|Manage all aspects of Microsoft Intune|False|

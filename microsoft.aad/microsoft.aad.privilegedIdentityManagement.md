@@ -1,4 +1,4 @@
-# Namespace `microsoft.aad.privilegedIdentityManagement`
-## Role permissions
+# Resource namespace `microsoft.aad.privilegedIdentityManagement`
+## Resource actions
 |Name|Description|Privileged|
 |-|-|-|

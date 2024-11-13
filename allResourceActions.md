@@ -1,5 +1,4 @@
-# Resource namespace `microsoft.directory`
-## Resource actions
+# All resource actions
 |Name|Description|Privileged|
 |-|-|-|
 |`microsoft.directory/accessReviews/allProperties/allTasks`|Create and delete access reviews, and read and update all properties of access reviews in Microsoft Entra ID|False|
@@ -684,3 +683,130 @@
 |`microsoft.directory/verifiableCredentials/configuration/contracts/create`|Create a verifiable credential contract|False|
 |`microsoft.directory/verifiableCredentials/configuration/create`|Create configuration required to create and manage verifiable credentials|False|
 |`microsoft.directory/verifiableCredentials/configuration/delete`|Delete configuration required to create and manage verifiable credentials and delete all of its verifiable credentials|False|
+|`microsoft.azure.advancedThreatProtection/allEntities/allTasks`|Manage all aspects of Azure Advanced Threat Protection|False|
+|`microsoft.azure.customSecurityAttributeDiagnosticSettings/allEntities/allProperties/allTasks`|Configure all aspects of custom security attributes diagnostic settings|False|
+|`microsoft.azure.devOps/allEntities/allTasks`|Read and configure Azure DevOps|False|
+|`microsoft.azure.informationProtection/allEntities/allTasks`|Manage all aspects of Azure Information Protection|False|
+|`microsoft.azure.print/allEntities/allProperties/allTasks`|Create and delete printers and connectors, and read and update all properties in Microsoft Print|False|
+|`microsoft.azure.print/connectors/allProperties/read`|Read all properties of connectors in Microsoft Print|False|
+|`microsoft.azure.print/printers/allProperties/read`|Read all properties of printers in Microsoft Print|False|
+|`microsoft.azure.print/printers/basic/update`|Update basic properties of printers in Microsoft Print|False|
+|`microsoft.azure.print/printers/register`|Register printers in Microsoft Print|False|
+|`microsoft.azure.print/printers/unregister`|Unregister printers in Microsoft Print|False|
+|`microsoft.azure.serviceHealth/allEntities/allTasks`|Read and configure Azure Service Health|False|
+|`microsoft.azure.supportTickets/allEntities/allTasks`|Create and manage Azure support tickets|False|
+|`microsoft.backup/allEntities/allProperties/allTasks`|Manage all aspects of Microsoft 365 Backup|False|
+|`microsoft.backup/allEntities/allProperties/read`|Read all aspects of Microsoft 365 Backup|False|
+|`microsoft.backup/exchangeProtectionPolicies/allProperties/allTasks`|Create and manage Exchange Online protection policy in Microsoft 365 Backup|False|
+|`microsoft.backup/exchangeRestoreSessions/allProperties/allTasks`|Read and configure restore session for Exchange Online in Microsoft 365 Backup|False|
+|`microsoft.backup/oneDriveForBusinessProtectionPolicies/allProperties/allTasks`|Create and manage OneDrive protection policy in Microsoft 365 Backup|False|
+|`microsoft.backup/oneDriveForBusinessRestoreSessions/allProperties/allTasks`|Read and configure restore session for OneDrive in Microsoft 365 Backup|False|
+|`microsoft.backup/restorePoints/sites/allProperties/allTasks`|Manage all restore points associated with selected SharePoint sites in M365 Backup|False|
+|`microsoft.backup/restorePoints/userDrives/allProperties/allTasks`|Manage all restore points associated with selected OneDrive accounts in M365 Backup|False|
+|`microsoft.backup/restorePoints/userMailboxes/allProperties/allTasks`|Manage all restore points associated with selected Exchange Online mailboxes in M365 Backup|False|
+|`microsoft.backup/sharePointProtectionPolicies/allProperties/allTasks`|Create and manage SharePoint protection policy in Microsoft 365 Backup|False|
+|`microsoft.backup/sharePointRestoreSessions/allProperties/allTasks`|Read and configure restore session for SharePoint in Microsoft 365 Backup|False|
+|`microsoft.backup/siteProtectionUnits/allProperties/allTasks`|Manage sites added to SharePoint protection policy in Microsoft 365 Backup|False|
+|`microsoft.backup/siteRestoreArtifacts/allProperties/allTasks`|Manage sites added to restore session for SharePoint in Microsoft 365 Backup|False|
+|`microsoft.backup/userDriveProtectionUnits/allProperties/allTasks`|Manage accounts added to OneDrive protection policy in Microsoft 365 Backup|False|
+|`microsoft.backup/userDriveRestoreArtifacts/allProperties/allTasks`|Manage accounts added to restore session for OneDrive in Microsoft 365 Backup|False|
+|`microsoft.backup/userMailboxProtectionUnits/allProperties/allTasks`|Manage mailboxes added to Exchange Online protection policy in Microsoft 365 Backup|False|
+|`microsoft.backup/userMailboxRestoreArtifacts/allProperties/allTasks`|Manage mailboxes added to restore session for Exchange Online in Microsoft 365 Backup|False|
+|`microsoft.cloudPC/allEntities/allProperties/allTasks`|Manage all aspects of Windows 365|False|
+|`microsoft.cloudPC/allEntities/allProperties/read`|Read all aspects of Windows 365|False|
+|`microsoft.commerce.billing/allEntities/allProperties/allTasks`|Manage all aspects of Office 365 billing|False|
+|`microsoft.commerce.billing/allEntities/allProperties/read`|Read all resources of Office 365 billing|False|
+|`microsoft.commerce.billing/purchases/standard/read`|Read purchase services in Microsoft 365 admin center.|False|
+|`microsoft.commerce.volumeLicenseServiceCenter/allEntities/allTasks`|Manage all aspects of Volume Licensing Service Center|False|
+|`microsoft.dynamics365/allEntities/allTasks`|Manage all aspects of Dynamics 365|False|
+|`microsoft.dynamics365.businessCentral/allEntities/allProperties/allTasks`|Manage all aspects of Dynamics 365 Business Central|False|
+|`microsoft.edge/allEntities/allProperties/allTasks`|Manage all aspects of Microsoft Edge|False|
+|`microsoft.edge/allEntities/allProperties/read`|Read all aspects of Microsoft Edge|False|
+|`microsoft.networkAccess/allEntities/allProperties/allTasks`|Manage all aspects of Entra Network Access|False|
+|`microsoft.networkAccess/allEntities/allProperties/read`|Read all aspects of Entra Network Access|False|
+|`microsoft.flow/allEntities/allTasks`|Manage all aspects of Microsoft Power Automate|False|
+|`microsoft.graph.dataConnect/allEntities/allProperties/allTasks`|Manage aspects of Microsoft Graph Data Connect|False|
+|`microsoft.graph.dataConnect/allEntities/allProperties/read`|Read aspects of Microsoft Graph Data Connect|False|
+|`microsoft.hardware.support/shippingAddress/allProperties/allTasks`|Create, read, update, and delete shipping addresses for Microsoft hardware warranty claims, including shipping addresses created by others|False|
+|`microsoft.hardware.support/shippingAddress/allProperties/read`|Read shipping addresses for Microsoft hardware warranty claims, including existing shipping addresses created by others|False|
+|`microsoft.hardware.support/shippingAddress/allProperties/update`|Update shipping addresses for Microsoft hardware warranty claims, including existing shipping addresses created by others|False|
+|`microsoft.hardware.support/shippingStatus/allProperties/read`|Read shipping status for open Microsoft hardware warranty claims|False|
+|`microsoft.hardware.support/warrantyClaims/allProperties/allTasks`|Create and manage all aspects of Microsoft hardware warranty claims|False|
+|`microsoft.hardware.support/warrantyClaims/allProperties/read`|Read Microsoft hardware warranty claims|False|
+|`microsoft.hardware.support/warrantyClaims/createAsOwner`|Create Microsoft hardware warranty claims where creator is the owner|False|
+|`microsoft.insights/allEntities/allProperties/allTasks`|Manage all aspects of Insights app|False|
+|`microsoft.insights/allEntities/allProperties/read`|Read all aspects of Viva Insights|False|
+|`microsoft.insights/programs/allProperties/update`|Deploy and manage programs in Insights app|False|
+|`microsoft.insights/queries/allProperties/allTasks`|Run and manage queries in Viva Insights|False|
+|`microsoft.insights/reports/allProperties/read`|View reports and dashboard in Insights app|False|
+|`microsoft.intune/allEntities/allTasks`|Manage all aspects of Microsoft Intune|False|
+|`microsoft.intune/allEntities/read`|Read all resources in Microsoft Intune|False|
+|`microsoft.office365.complianceManager/allEntities/allTasks`|Manage all aspects of Office 365 Compliance Manager|False|
+|`microsoft.office365.desktopAnalytics/allEntities/allTasks`|Manage all aspects of Desktop Analytics|False|
+|`microsoft.office365.exchange/allEntities/basic/allTasks`|Manage all aspects of Exchange Online|False|
+|`microsoft.office365.exchange/messageTracking/allProperties/allTasks`|Manage all tasks in message tracking in Exchange Online|False|
+|`microsoft.office365.exchange/migration/allProperties/allTasks`|Manage all tasks related to migration of recipients in Exchange Online|False|
+|`microsoft.office365.exchange/recipients/allProperties/allTasks`|Create and delete all recipients, and read and update all properties of recipients in Exchange Online|False|
+|`microsoft.office365.knowledge/contentUnderstanding/allProperties/allTasks`|Read and update all properties of content understanding in Microsoft 365 admin center|False|
+|`microsoft.office365.knowledge/contentUnderstanding/analytics/allProperties/read`|Read analytics reports of content understanding in Microsoft 365 admin center|False|
+|`microsoft.office365.knowledge/knowledgeNetwork/allProperties/allTasks`|Read and update all properties of knowledge network in Microsoft 365 admin center|False|
+|`microsoft.office365.knowledge/knowledgeNetwork/topicVisibility/allProperties/allTasks`|Manage topic visibility of knowledge network in Microsoft 365 admin center|False|
+|`microsoft.office365.knowledge/learningSources/allProperties/allTasks`|Manage learning sources and all their properties in Learning App.|False|
+|`microsoft.office365.lockbox/allEntities/allTasks`|Manage all aspects of Customer Lockbox|False|
+|`microsoft.office365.messageCenter/messages/read`|Read messages in Message Center in the Microsoft 365 admin center, excluding security messages|False|
+|`microsoft.office365.messageCenter/securityMessages/read`|Read security messages in Message Center in the Microsoft 365 admin center|False|
+|`microsoft.office365.network/locations/allProperties/allTasks`|Manage all aspects of network locations|False|
+|`microsoft.office365.network/performance/allProperties/read`|Read all network performance properties in the Microsoft 365 admin center|False|
+|`microsoft.office365.organizationalMessages/allEntities/allProperties/allTasks`|Manage all authoring aspects of Microsoft 365 Organizational Messages|False|
+|`microsoft.office365.organizationalMessages/allEntities/allProperties/read`|Read all aspects of Microsoft 365 Organizational Messages|False|
+|`microsoft.office365.organizationalMessages/allEntities/allProperties/update`|Approve or reject new organizational messages for delivery in the Microsoft 365 admin center|False|
+|`microsoft.office365.protectionCenter/allEntities/allProperties/allTasks`|Manage all aspects of the Security and Compliance centers|False|
+|`microsoft.office365.protectionCenter/allEntities/allProperties/read`|Read all properties in the Security and Compliance centers|False|
+|`microsoft.office365.protectionCenter/allEntities/allProperties/update`|Update all resources in Microsoft 365 Security and Compliance Center|False|
+|`microsoft.office365.protectionCenter/allEntities/basic/update`|Update basic properties of all resources in the Security and Compliance centers|False|
+|`microsoft.office365.protectionCenter/allEntities/standard/read`|Read standard properties of all resources in the Security and Compliance centers|False|
+|`microsoft.office365.protectionCenter/attackSimulator/payload/allProperties/allTasks`|Create and manage attack payloads in Attack Simulator|False|
+|`microsoft.office365.protectionCenter/attackSimulator/payload/allProperties/read`|Read all properties of attack payloads in Attack Simulator|False|
+|`microsoft.office365.protectionCenter/attackSimulator/reports/allProperties/read`|Read reports of attack simulation, responses, and associated training|False|
+|`microsoft.office365.protectionCenter/attackSimulator/simulation/allProperties/allTasks`|Create and manage attack simulation templates in Attack Simulator|False|
+|`microsoft.office365.protectionCenter/attackSimulator/simulation/allProperties/read`|Read all properties of attack simulation templates in Attack Simulator|False|
+|`microsoft.office365.protectionCenter/sensitivityLabels/allProperties/read`|Read all properties of sensitivity labels in the Security and Compliance centers|False|
+|`microsoft.office365.search/allEntities/allTasks`|Create and delete all resources, and read and update all properties in Microsoft Search|False|
+|`microsoft.office365.search/content/manage`|Create and delete content, and read and update all properties in Microsoft Search|False|
+|`microsoft.office365.securityComplianceCenter/allEntities/allTasks`|Create and delete all resources, and read and update standard properties in the Microsoft 365 Security and Compliance Center|False|
+|`microsoft.office365.securityComplianceCenter/allEntities/read`|Read standard properties in Microsoft 365 Security and Compliance Center|False|
+|`microsoft.office365.serviceHealth/allEntities/allTasks`|Read and configure Service Health in the Microsoft 365 admin center|False|
+|`microsoft.office365.sharePoint/allEntities/allTasks`|Create and delete all resources, and read and update standard properties in SharePoint|False|
+|`microsoft.office365.skypeForBusiness/allEntities/allTasks`|Manage all aspects of Skype for Business Online|False|
+|`microsoft.office365.supportTickets/allEntities/allTasks`|Create and manage Microsoft 365 service requests|False|
+|`microsoft.office365.usageReports/allEntities/allProperties/read`|Read Office 365 usage reports|False|
+|`microsoft.office365.usageReports/allEntities/standard/read`|Read tenant-level aggregated Office 365 usage reports|False|
+|`microsoft.office365.userCommunication/allEntities/allTasks`|Read and update what's new messages visibility|False|
+|`microsoft.office365.webPortal/allEntities/standard/read`|Read basic properties on all resources in the Microsoft 365 admin center|False|
+|`microsoft.office365.yammer/allEntities/allProperties/allTasks`|Manage all aspects of Yammer|False|
+|`microsoft.office365.yammer/allEntities/allProperties/read`|Read all aspects of Yammer|False|
+|`microsoft.office365.copilot/allEntities/allProperties/allTasks`|Create and manage all settings for Microsoft 365 Copilot|False|
+|`microsoft.office365.copilot/allEntities/allProperties/read`|Read all settings for Microsoft 365 Copilot|False|
+|`microsoft.office365.fileStorageContainers/allEntities/allProperties/allTasks`|Manage all aspects of SharePoint Embedded containers|False|
+|`microsoft.office365.fileStorageContainers/allEntities/allProperties/read`|Read entities and permissions of SharePoint Embedded containers|False|
+|`microsoft.office365.migrations/allEntities/allProperties/allTasks`|Manage all aspects of Microsoft 365 migrations|False|
+|`microsoft.permissionsManagement/allEntities/allProperties/allTasks`|Manage all aspects of Entra Permissions Management|False|
+|`microsoft.permissionsManagement/allEntities/allProperties/read`|Read all aspects of Entra Permissions Management|False|
+|`microsoft.powerApps/allEntities/allTasks`|Manage all aspects of Power Apps|False|
+|`microsoft.powerApps.powerBI/allEntities/allTasks`|Manage all aspects of Power BI|False|
+|`microsoft.teams/allEntities/allProperties/allTasks`|Manage all resources in Teams|False|
+|`microsoft.teams/allEntities/allProperties/read`|Read all properties of Microsoft Teams|False|
+|`microsoft.teams/callQuality/allProperties/read`|Read all data in the Call Quality Dashboard (CQD)|False|
+|`microsoft.teams/callQuality/standard/read`|Read basic data in the Call Quality Dashboard (CQD)|False|
+|`microsoft.teams/devices/standard/read`|Manage all aspects of Teams-certified devices including configuration policies|False|
+|`microsoft.teams/meetings/allProperties/allTasks`|Manage meetings including meeting policies, configurations, and conference bridges|False|
+|`microsoft.teams/voice/allProperties/allTasks`|Manage voice including calling policies and phone number inventory and assignment|False|
+|`microsoft.virtualVisits/allEntities/allProperties/allTasks`|Manage and share Virtual Visits information and metrics from admin centers or the Virtual Visits app|False|
+|`microsoft.virtualVisits/allEntities/allProperties/read`|Read all aspects of Virtual Visits|False|
+|`microsoft.viva.goals/allEntities/allProperties/allTasks`|Manage all aspects of Microsoft Viva Goals|False|
+|`microsoft.viva.goals/allEntities/allProperties/read`|Read all aspects of Microsoft Viva Goals|False|
+|`microsoft.viva.pulse/allEntities/allProperties/allTasks`|Manage all aspects of Microsoft Viva Pulse|False|
+|`microsoft.viva.pulse/allEntities/allProperties/read`|Read all aspects of Microsoft Viva Pulse|False|
+|`microsoft.windows.defenderAdvancedThreatProtection/allEntities/allTasks`|Manage all aspects of Microsoft Defender for Endpoint|False|
+|`microsoft.windows.updatesDeployments/allEntities/allProperties/allTasks`|Read and configure all aspects of Windows Update Service|False|
+|`microsoft.windows.updatesDeployments/allEntities/allProperties/read`|Read all aspects of Windows Update Service|False|
